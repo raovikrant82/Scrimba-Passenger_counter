@@ -5,7 +5,8 @@ body {
 }
 
 body {
-  background-image: url("station.jpg");
+  background-image: url("./assets/station.jpg");
+  background-repeat: no-repeat;
   background-size: cover;
   font-family: sans-serif;
   font-weight: bold;
